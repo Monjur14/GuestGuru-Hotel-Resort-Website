@@ -1,5 +1,5 @@
 # Real Estate Website
-Name: GuestGuru
+Name: GuestGuru /n
 This project is a real estate website that allows users to explore and book hotels and resorts. It is built using React and integrates Firebase for authentication and data storage.
 
 ## Live Link
