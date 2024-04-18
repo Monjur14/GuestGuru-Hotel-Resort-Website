@@ -1,0 +1,140 @@
+[
+  {
+    "image": "https://i.ibb.co/8jbbRMc/cauayan-island-resort-JNo-J-eis-Uu-Y-unsplash.jpg",
+    "estate_title": "Luxury Beach Resort",
+    "id": "1",
+    "segment_name": "Hospitality",
+    "description": "Experience unparalleled luxury and breathtaking ocean views at our beach resort. Perfect for a relaxing getaway or hosting events.",
+    "price": "$550 per night",
+    "status": "Rent",
+    "area": "5000 sq ft",
+    "location": "Tropical Paradise Island",
+    "facilities": ["beach access", "infinity pool", "spa", "gourmet dining"]
+  },
+  {
+    "image": "https://i.ibb.co/4VFtnRL/arkady-lukashov-ys-N7dkne160-unsplash.jpg",
+    "estate_title": "Mountain Lodge Retreat",
+    "id": "2",
+    "segment_name": "Hospitality",
+    "description": "Escape to the tranquility of the mountains in our cozy lodge retreat. Enjoy hiking trails, wildlife, and stunning views.",
+    "price": "$300 per night",
+    "status": "Rent",
+    "area": "3000 sq ft",
+    "location": "Alpine Valley",
+    "facilities": ["fireplace", "hot tub", "restaurant", "conference room"]
+  },
+  {
+    "image": "https://i.ibb.co/W0T3S4T/judy-grayson-2jk97-TV-I04-unsplash.jpg",
+    "estate_title": "Riverside Retreat",
+    "id": "3",
+    "segment_name": "Hospitality",
+    "description": "Invest in this picturesque riverside retreat, ideal for eco-tourism or as a private estate. Abundant wildlife and natural beauty.",
+    "price": "$3,000,000",
+    "status": "Sale",
+    "area": "5000 sq ft",
+    "location": "Scenic River Valley",
+    "facilities": [
+      "riverfront access",
+      "hiking trails",
+      "wildlife observation platforms",
+      "organic farm"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/FsrBZLG/shawn-lee-0s-SJMTf-LXUI-unsplash.jpg",
+    "estate_title": "Secluded Mountain Cabin",
+    "id": "4",
+    "segment_name": "Hospitality",
+    "description": "Unplug and unwind in our charming mountain cabin nestled in the woods. Perfect for a romantic getaway or nature retreat.",
+    "price": "$150 per night",
+    "status": "Rent",
+    "area": "1500 sq ft",
+    "location": "Rustic Wilderness",
+    "facilities": ["wood-burning stove", "deck", "BBQ grill", "hiking trails"]
+  },
+  {
+    "image": "https://i.ibb.co/bgKJSRP/ibrahim-mushan-ATpr-PSz-Yu00-unsplash.jpg",
+    "estate_title": "Luxury Beachfront Villa",
+    "id": "5",
+    "segment_name": "Hospitality",
+    "description": "Own your piece of paradise with this stunning beachfront villa. Enjoy exclusive amenities and direct beach access.",
+    "price": "$700 per night",
+    "status": "Rent",
+    "area": "6000 sq ft",
+    "location": "Tropical Paradise Island",
+    "facilities": [
+      "private beach",
+      "infinity pool",
+      "home theater",
+      "gourmet kitchen"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/WGzdZ2S/upgraded-points-Vj7e-Gd-Qhbak-unsplash.jpg",
+    "estate_title": "Mountain Chalet",
+    "id": "6",
+    "segment_name": "Hospitality",
+    "description": "Escape to this luxurious mountain chalet boasting panoramic views and upscale amenities. Ideal for both relaxation and adventure.",
+    "price": "$1,800,000",
+    "status": "Sale",
+    "area": "4000 sq ft",
+    "location": "Alpine Valley",
+    "facilities": [
+      "wraparound balcony",
+      "sauna",
+      "wine cellar",
+      "ski-in/ski-out access"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/mGN8sfv/kh-i-d-ng-ia-R94-Xe-BLN4-unsplash.jpg",
+    "estate_title": "City Center Boutique Hotel",
+    "id": "7",
+    "segment_name": "Hospitality",
+    "description": "Invest in this prime city center boutique hotel with a strong revenue stream and potential for further development.",
+    "price": "$1500 per night",
+    "status": "Rent",
+    "area": "8000 sq ft",
+    "location": "Downtown Metropolis",
+    "facilities": [
+      "rooftop restaurant",
+      "conference facilities",
+      "luxury suites",
+      "fitness center"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/hZXsNKR/andre-alexander-CKy-D4ex3h-UQ-unsplash.jpg",
+    "estate_title": "Cozy Lakeside Cabin",
+    "id": "8",
+    "segment_name": "Hospitality",
+    "description": "Own this charming lakeside cabin, perfect for weekend getaways or as a rental property. Serene lake views and outdoor recreation await.",
+    "price": "$500,000",
+    "status": "Sale",
+    "area": "2000 sq ft",
+    "location": "Tranquil Lakeside",
+    "facilities": [
+      "private dock",
+      "fire pit",
+      "canoe/kayak rental",
+      "fishing gear"
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/qRDLMt9/dinuka-lankaloka-HKr5cn6-S0q0-unsplash.jpg",
+    "estate_title": "Urban Boutique Hotel",
+    "id": "9",
+    "segment_name": "Hospitality",
+    "description": "Immerse yourself in the vibrant city life while staying at our stylish boutique hotel. Prime location with easy access to attractions.",
+    "price": "$200 per night",
+    "status": "Rent",
+    "area": "2000 sq ft",
+    "location": "Downtown Metropolis",
+    "facilities": [
+      "rooftop bar",
+      "fitness center",
+      "room service",
+      "business center"
+    ]
+  }
+]
