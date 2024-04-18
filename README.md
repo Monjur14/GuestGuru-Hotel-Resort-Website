@@ -3,7 +3,7 @@ Name: GuestGuru
 This project is a real estate website that allows users to explore and book hotels and resorts. It is built using React and integrates Firebase for authentication and data storage.
 
 ## Live Link
-[Real Estate Website](https://celadon-babka-895a49.netlify.app/)
+[GuestGuru Website](https://celadon-babka-895a49.netlify.app/)
 
 ## GitHub Repository
 [GitHub Repository](https://github.com/programming-hero-web-course-4/b9a9-real-estate-Monjur14)
